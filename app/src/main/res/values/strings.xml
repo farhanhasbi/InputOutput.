@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">villa</string>
+    <string name="nama">Nama</string>
+    <string name="ktp">No KTP</string>
+    <string name="villa">Villa</string>
+    <string name="pesan">Pesan</string>
+    <string name="info">info</string>
+</resources>
